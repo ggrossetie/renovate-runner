@@ -5,6 +5,14 @@
   "platform": "github",
   "repositories": [
     "asciidoctor/asciidoctor.js",
-    "yuzutech/kroki"
+    "yuzutech/kroki",
+    "mogztter/asciidoctor-web-pdf",
+    "mogztter/asciidoctor-kroki",
+    "mogztter/asciidoctor-opal-node-runtime",
+    "mogztter/unxhr",
+    "yuzutech/annotations-actions",
+    "asciidoctor/asciidoctor-docbook.js",
+    "asciidoctor/asciidoctor-cli.js",
+    "asciidoctor/asciidoctor-browser-extension"
   ]
 }
