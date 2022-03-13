@@ -6,6 +6,7 @@
   "repositories": [
     "asciidoctor/asciidoctor.js",
     "yuzutech/kroki",
+    "yuzutech/kroki.io",
     "Mogztter/asciidoctor-web-pdf",
     "Mogztter/asciidoctor-kroki",
     "Mogztter/asciidoctor-opal-node-runtime",
