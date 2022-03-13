@@ -1,8 +1,8 @@
 {
   "branchPrefix": "renovate/",
   "includeForks": true,
-  "username": "renovate-release",
-  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+  "username": "Mogztter",
+  "gitAuthor": "Guillaume Grossetie <ggrossetie@yuzutech.fr>",
   "platform": "github",
   "repositories": [
     "asciidoctor/asciidoctor.js",
