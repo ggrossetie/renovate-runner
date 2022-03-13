@@ -10,7 +10,7 @@
     "Mogztter/asciidoctor-kroki",
     "Mogztter/asciidoctor-opal-node-runtime",
     "Mogztter/unxhr",
-    "yuzutech/annotations-actions",
+    "yuzutech/annotations-action",
     "asciidoctor/asciidoctor-docbook.js",
     "asciidoctor/asciidoctor-cli.js",
     "asciidoctor/asciidoctor-browser-extension"
