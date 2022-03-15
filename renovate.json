@@ -1,7 +1,6 @@
 {
   "branchPrefix": "renovate/",
   "includeForks": true,
-  "username": "Mogztter",
   "gitAuthor": "Guillaume Grossetie <ggrossetie@yuzutech.fr>",
   "platform": "github",
   "repositories": [
@@ -14,6 +13,7 @@
     "Mogztter/unxhr",
     "yuzutech/annotations-action",
     "asciidoctor/asciidoctor-docbook.js",
+    "Mogztter/asciidoctor-manpage.js",
     "asciidoctor/asciidoctor-cli.js",
     "asciidoctor/asciidoctor-browser-extension"
   ]
