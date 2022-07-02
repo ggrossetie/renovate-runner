@@ -7,6 +7,8 @@
     "asciidoctor/asciidoctor.js",
     "yuzutech/kroki",
     "yuzutech/kroki.io",
+    "yuzutech/kroki-cli",
+    "yuzutech/kroki-go",
     "Mogztter/asciidoctor-web-pdf",
     "Mogztter/asciidoctor-kroki",
     "Mogztter/asciidoctor-opal-node-runtime",
