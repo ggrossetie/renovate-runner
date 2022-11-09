@@ -17,6 +17,7 @@
     "asciidoctor/asciidoctor-docbook.js",
     "Mogztter/asciidoctor-manpage.js",
     "asciidoctor/asciidoctor-cli.js",
-    "asciidoctor/asciidoctor-browser-extension"
+    "asciidoctor/asciidoctor-browser-extension",
+    "asciidoctor/asciidoctor-vscode"
   ]
 }
