@@ -18,6 +18,7 @@
     "Mogztter/asciidoctor-manpage.js",
     "asciidoctor/asciidoctor-cli.js",
     "asciidoctor/asciidoctor-browser-extension",
-    "asciidoctor/asciidoctor-vscode"
+    "asciidoctor/asciidoctor-vscode",
+    "EcrituresNumeriques/stylo"
   ]
 }
