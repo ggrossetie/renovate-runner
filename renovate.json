@@ -11,7 +11,7 @@
     "yuzutech/kroki-go",
     "ggrossetie/asciidoctor-web-pdf",
     "ggrossetie/asciidoctor-kroki",
-    "ggrossetie/asciidoctor-opal-node-runtime",
+    "asciidoctor/opal-node-runtime",
     "ggrossetie/unxhr",
     "yuzutech/annotations-action",
     "asciidoctor/asciidoctor-docbook.js",
