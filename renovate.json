@@ -4,7 +4,7 @@
   "gitAuthor": "Guillaume Grossetie <ggrossetie@yuzutech.fr>",
   "platform": "github",
   "repositories": [
-    "asciidoctor/asciidoctor-reveal.js"
+    "asciidoctor/asciidoctor-reveal.js",
     "asciidoctor/asciidoctor.js",
     "yuzutech/kroki",
     "yuzutech/kroki.io",
